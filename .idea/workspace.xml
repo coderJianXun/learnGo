@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77d7b2b5-2e11-42e5-b94f-1c5788ff4809" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo13/q1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colly/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo20/q1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo20/q2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo20/q3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo20/q4/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,12 +61,18 @@
         <option value="$PROJECT_DIR$/demo12/q2/main.go" />
         <option value="$PROJECT_DIR$/demo12/q3/main.go" />
         <option value="$PROJECT_DIR$/demo13/q1/main.go" />
+        <option value="$PROJECT_DIR$/colly/demo1/main.go" />
+        <option value="$PROJECT_DIR$/demo20/q1/mian.go" />
+        <option value="$PROJECT_DIR$/demo20/q1/main.go" />
+        <option value="$PROJECT_DIR$/demo20/q2/main.go" />
+        <option value="$PROJECT_DIR$/demo20/q3/main.go" />
+        <option value="$PROJECT_DIR$/demo20/q4/main.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="197" />
-    <option name="y" value="46" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="571" />
+    <option name="y" value="70" />
     <option name="width" value="1134" />
     <option name="height" value="877" />
   </component>
@@ -74,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,21 +91,11 @@
               <item name="learnGo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnGo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learnGo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnGo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnGo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnGo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo13" type="462c0819:PsiDirectoryNode" />
-              <item name="q1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,13 +119,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (5)">
+  <component name="RunManager" selected="Go Build.go build main.go (4)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learnGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo11/q2/main.go" />
-      <package value="learnGo" />
+      <filePath value="$PROJECT_DIR$/demo20/q1/main.go" />
+      <package value="github.com/coderJianXun/learnGo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -134,8 +133,8 @@
       <module name="learnGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo11/q3/main.go" />
-      <package value="learnGo" />
+      <filePath value="$PROJECT_DIR$/demo20/q2/main.go" />
+      <package value="github.com/coderJianXun/learnGo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -143,8 +142,8 @@
       <module name="learnGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo12/q1/main.go" />
-      <package value="learnGo" />
+      <filePath value="$PROJECT_DIR$/demo20/q3/main.go" />
+      <package value="github.com/coderJianXun/learnGo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -152,48 +151,48 @@
       <module name="learnGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo12/q3/main.go" />
-      <package value="learnGo" />
+      <filePath value="$PROJECT_DIR$/demo20/q4/main.go" />
+      <package value="github.com/coderJianXun/learnGo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learnGo" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo13/q1/main.go" />
-      <package value="learnGo" />
+      <filePath value="$PROJECT_DIR$/colly/demo1/main.go" />
+      <package value="github.com/coderJianXun/learnGo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (5)" />
         <item itemvalue="Go Build.go build main.go (4)" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="571" y="70" width="1134" height="877" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20421246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2032967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30949286" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30819246" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992629" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32769832" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32678133" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,6 +401,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/colly/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="e#14#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo20/q1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo20/q2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo20/q3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo20/q4/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
